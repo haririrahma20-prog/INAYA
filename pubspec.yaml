@@ -1,0 +1,50 @@
+name: inaya_app
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.7
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_localizations:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.5.5
+  intl: ^0.20.2
+  http: ^1.6.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/inaya3.png
+    - assets/skin.jpg
+    - assets/makeup.jpg
+    - assets/hair.jpg
+    - assets/body.jpg
+    - assets/cleancer.jpg
+    - assets/toner.jpg
+    - assets/serum.jpg
+    - assets/moisturizer.jpg
+    - assets/sunscreen.jpg
+    - assets/remover.jpg
+    - assets/cleanser2.jpg
+    - assets/toner2.jpg
+    - assets/serum2.jpg
+    - assets/moisturizer2.jpg
+    - assets/exfoliator.jpg
+    - assets/mask.jpg
+    - assets/moisturizer3.jpg
